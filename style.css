@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: #682804;
+    text-align: center;
+
+}
+
+h2 {
+    color: black;
+}
+
+
+.food {
+    font-size: 24px;   
+}
+
+.fast {
+    color: #c24700;;
+}
+
+.sweet {
+    color: #c20000;;
+}
+
+.healthy {
+    color: #009407;;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    align-items: center;
+}
+
+.container {
+    background-color: tan;
+}
